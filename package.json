@@ -4,7 +4,7 @@
   "description": "Visual Studio Code extension API bindings for BuckleScript",
   "repository": {
     "type": "git",
-    "url": "https://guthub.com/glennsl/bs-vscode"
+    "url": "https://github.com/glennsl/bs-vscode.git"
   },
   "keywords": [
     "vscode",
