@@ -1,6 +1,6 @@
 {
   "name": "bs-vscode",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Visual Studio Code extension API bindings for BuckleScript",
   "repository": {
     "type": "git",
