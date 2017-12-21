@@ -6,9 +6,12 @@
     "type": "git",
     "url": "https://github.com/glennsl/bs-vscode.git"
   },
+  "homepage": "https://github.com/glennsl/bs-vscode#readme",
+  "bugs": "https://github.com/glennsl/bs-vscode/issues",
   "keywords": [
-    "vscode",
+    "reason",
     "bucklescript",
+    "vscode",
     "extension",
     "bindings"
   ],
